@@ -1,0 +1,26 @@
+A) Kirana 
+	1)Rice, Pulses and Floor 	 : PricePerKg, Open, Weight, Price ,Type ,Brand ,ExpiryDate
+	2)Sugar & Salts          	 : PricePerKg, Open, Weight, Price , Type ,Brand ,ExpiryDate
+	3)Oils                   	 : Weight ,Price, Type ,Brand ,ExpiryDate
+	4)Masal & Spices        	 : PricePerKg, Open, Weight, Price ,Type ,Brand ,ExpiryDate
+	5)Personal Care         	 : Weight ,Price ,Type ,Brand ,ExpiryDate
+	6)Soaps and Detergent    	 : Flavour, Weight, Price ,Type, Brand ,ExpiryDate
+	7)Noodles                	 : Weight ,Price ,Brand ,ExpiryDate
+	8)Cleaners               	 : Porpose(Type),Weight ,Price,Brand ,ExpiryDate
+	9)Beverages              	 : Weight,Price,Brand ,ExpiryDate
+	10)Pickels               	 : Weight,Price,Flavour(Type),Brand ,ExpiryDate
+	11)Snacks                	 : Weight,Price,Flavour(Type),Brand ,ExpiryDate
+	12)Dry Fruits            	 : PricePerKg,open ,Weight,Price ,Open,Brand ,ExpiryDate
+
+B) Dairy
+	1)Milk 						 :PricePerL ,Animal(Type),Open ,Price ,Weight,Brand ,ExpiryDate
+	2)Curd ,Matha, Ghee 	   	 :PricePerKg ,Open ,Price ,Weight,Brand ,ExpiryDate
+	2)Paneer ,Cheez & Butter	 :PricePerKg ,Open ,Price ,Weight,Brand ,ExpiryDate
+	3)Shree Khand ,Rabdi & Lassi :PricePerKg,Open ,Price  ,Weight ,Brand ,ExpiryDate
+	4)Ice Cream 				 :Flavor(Type),PricePerKg,Open ,Price ,Weight,Brand ,ExpiryDate
+
+C)Bakery :
+	1)Cakes 					 :Flavor ,Shape,VegOrNonVeg,Weight,Price,Open,Type,Brand,ExpiryDate
+	2)Pasteries 	             :Weight,Price,Type ,Ingredients
+	3)Bread & Buns 				 :Weight,Price,Type ,Ingredients,Open ,Brand ,ExpiryDate
+	
